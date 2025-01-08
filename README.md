@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">🛠️ Tech Stack<br><br>- **Languages:** JavaScript, HTML, CSS  <br>- Frontend: React.js, Tailwind CSS  <br>- Backend: Node.js, Express.js  <br>- Databases: MongoDB, Firebase  <br>- Other Tools: Git, GitHub, REST APIs</p>
+<p align="left">🛠️ Tech Stack<br><br>- Languages: JavaScript, HTML, CSS  <br>- Frontend: React.js, Tailwind CSS  <br>- Backend: Node.js, Express.js  <br>- Databases: MongoDB, Firebase  <br>- Other Tools: Git, GitHub, REST APIs</p>
 
 ###
 
