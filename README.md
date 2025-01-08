@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/mdtalam/mdtalam/refs/heads/main/Tasnim%20Alam.jpg"  />
+  <img height="200" src="https://raw.githubusercontent.com/mdtalam/mdtalam/refs/heads/main/Tasnim%20Alam.jpg"  />
 </div>
 
 ###
