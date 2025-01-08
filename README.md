@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br><br>I’m [Tasnim ALam], a dedicated and passionate Web Developer with extensive hands-on experience in JavaScript, React.js, Node.js, and MongoDB. I thrive on crafting dynamic, responsive, and user-centric web applications. Driven by a genuine love for technology, I’m always eager to explore emerging tools, embrace new challenges, and elevate my skills to create impactful digital solutions.</h3>
+<h3 align="left">👩‍💻  About Me <br><br>I’m Tasnim ALam, a dedicated and passionate Web Developer with extensive hands-on experience in JavaScript, React.js, Node.js, and MongoDB. I thrive on crafting dynamic, responsive, and user-centric web applications. Driven by a genuine love for technology, I’m always eager to explore emerging tools, embrace new challenges, and elevate my skills to create impactful digital solutions.</h3>
 
 ###
 
