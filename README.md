@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/mdtalam/mdtalam/refs/heads/main/Tasnim%20Alam.jpg"  />
+  <img height="200" src="https://github.com/mdtalam/mdtalam/blob/main/Blue%20Brown%20White%20Modern%20Web%20Developer%20LinkedIn%20Banner%20(1).jpg"  />
 </div>
 
 ###
